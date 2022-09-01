@@ -8,3 +8,4 @@ Multiple permissions:script that adds execute permission to the owner and the gr
 Everybody!:script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 James Bond:script that sets the permission to the file hello as follows:
 John Doe:script that sets the mode of the file hello to this
+Look in the mirror: script that sets the mode of the file hello the same as olleh’s mode.
